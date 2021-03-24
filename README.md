@@ -7,8 +7,8 @@ Visiting `/campers` will show the index page of all the campers and visiting `/a
 Currently, we don't have any way to associate the two, so consider the relationship and think about how a `camper` can `signup` for an `activity`!
 
 ## The Deliverables
-
-1. To log a camper with an activity, we need to store some additional information in our database. Make the necessary updates to our database, so that **a `camper` can have many `activities`** and **an `activity` can have many campers**. The `signup` should also include a time (as an integer) that is between 0 and 23, referring to the hour of the activity.
+<!-- 
+1. To log a camper with an activity, we need to store some additional information in our database. Make the necessary updates to our database, so that **a `camper` can have many `activities`** and **an `activity` can have many campers**. The `signup` should also include a time (as an integer) that is between 0 and 23, referring to the hour of the activity. -->
 
 2. As a user, I should be able to go to the index page of the `campers` and click on the names to go to the show page for that `camper`. The show page should show the `camper's` name, their age and the list of activities that they have signed up for.
 
